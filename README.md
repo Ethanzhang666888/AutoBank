@@ -1,3 +1,8 @@
+# 利用 Chainlink Automation 自动化 Bank 合约：使用 Solidity 实现动态存款管理和自动转账
+
+<img width="1439" alt="image" src="https://github.com/user-attachments/assets/3383b342-bc55-4241-9464-d4a2688f257f">
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
